@@ -31,6 +31,9 @@
         <a href="https://www.java.com/">
             <img align="center" alt="Logo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         </a>
+        <a href="https://www.php.net/">
+            <img align="center" alt="Logo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+        </a>
         <a href="https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/">
             <img align="center" alt="Logo-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
         </a>
