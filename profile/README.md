@@ -34,9 +34,6 @@
         <a href="https://www.php.net/">
             <img align="center" alt="Logo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
         </a>
-        <a href="https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/">
-            <img align="center" alt="Logo-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-        </a>
     </div><br>
     <a href="https://github.com/felipefreitassilvalearning">
     <img height="180em" src="https://felipefreitassilva-github-readme-stats.vercel.app/api/top-langs/?username=felipefreitassilva&layout=compact&langs_count=7&theme=dracula" alt="" />
