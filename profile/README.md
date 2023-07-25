@@ -2,6 +2,7 @@
     <h2>Olá! Me chamo Felipe👋</h2>
     <p>Criei essa organização como arquivo online para todos os meus projetos e aprendizados de maneira a organizar melhor meus feitos no mundo digital.</p>
     <p>Se quiser ver meus trabalhos finalizados, acesse minha conta oficial em <a href="https://github.com/felipefreitassilva" target="_blank">/felipefreitassilva</a>.</p>
+    <p>Se quiser ver minha trajetória acadêmica, acesse minha conta específica em <a href="https://github.com/EngenhariaSoftwarePUCRS" target="_blank">/Engenharia de Software PUCRS</a>.</p>
 </div>
 
 <div align="center">
